@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **vishnurajkarockal@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/?resumeId=65cde5835256c88738ead9a8&profileId=self&templateName=TwoColumnMinimal&fontSize=small](https://resume-builder-test-new.masaischool.com/resume/?resumeId=65cde5835256c88738ead9a8&profileId=self&templateName=TwoColumnMinimal&fontSize=small)
+- 📄 Know about my experiences [Click Here](https://resume-builder-test-new.masaischool.com/resume/?resumeId=65cde5835256c88738ead9a8&profileId=self&templateName=TwoColumnMinimal&fontSize=small)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
