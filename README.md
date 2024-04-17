@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img height="370" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Vshnuraj K R</h1>
+<h1 align="center">Hi 👋, I'm Vishnuraj K R</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnurajkarockal&label=Profile%20views&color=0e75b6&style=flat" alt="vishnurajkarockal" /> </p>
 
